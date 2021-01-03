@@ -10,7 +10,7 @@ node_modules/
 /coverage
 
 # custom folders
-/backend/data
+backend/data
 
 # production
 /build
