@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './bootstrap.min.css';
 import './index.css';
+import '../node_modules/mono-icons/iconfont/icons.css';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

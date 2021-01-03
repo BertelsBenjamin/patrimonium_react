@@ -1,0 +1,39 @@
+{
+  "name": "patrimonium_react",
+  "version": "1.0.0",
+  "description": "SaaS product built for companies delivering B2B services to track realtime state of service projects",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js",
+    "client": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "data:import": "node backend/seeder",
+    "data:destroy": "node backend/seeder -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BertelsBenjamin/patrimonium_react.git"
+  },
+  "keywords": [
+    "SaaS",
+    "B2B",
+    "MERN"
+  ],
+  "author": "Benjamin Bertels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BertelsBenjamin/patrimonium_react/issues"
+  },
+  "homepage": "https://github.com/BertelsBenjamin/patrimonium_react#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "concurrently": "^5.3.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "mongoose": "^5.11.9"
+  }
+}

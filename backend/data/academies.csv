@@ -1,0 +1,435 @@
+﻿name;hq;street;house_number;bus_number;postal_code;place;province;phone;fax;email;url;director_last_name;director_first_name
+Hoofdstedelijke Kunstacademie;True;Nieuwland;198;;1000;Brussel;Brussels Hoofdstedelijk Gewest;;;solange.bertrand@brucity.education;www.hoofdstedelijkeacademie.be;BERTRAND;Solange
+Hoofdstedelijke Kunstacademie;False;Reper-Vrevenstraat;100;;1020;Brussel;Brussels Hoofdstedelijk Gewest;;; ; ;BERTRAND;Solange
+Hoofdstedelijke Kunstacademie;False;Verdunstraat;381;;1130;Brussel;Brussels Hoofdstedelijk Gewest;;; ; ;BERTRAND;Solange
+Hoofdstedelijke Kunstacademie;False;Driegatenstraat;2;;1120;Brussel;Brussels Hoofdstedelijk Gewest;;; ; ;BERTRAND;Solange
+Hoofdstedelijke Kunstacademie;False;Emile Bockstaellaan;107;;1020;Brussel;Brussels Hoofdstedelijk Gewest;;; ; ;BERTRAND;Solange
+GO! muziekacademie Schaarbeek;True;Lambermontlaan;184;;1030;Schaarbeek;Brussels Hoofdstedelijk Gewest;02 241 41 39;02 241 96 43;secretariaat@muziekacademieschaarbeek.be;www.muziekacademieschaarbeek.be;VALCKE;Hilde
+GO! muziekacademie Schaarbeek;False;Elzasstraat;19;;3040;Huldenberg;Vlaams-Brabant;;; ; ;VALCKE;Hilde
+GO! muziekacademie Schaarbeek;False;Ganspoel;;;3040;Huldenberg;Vlaams-Brabant;;; ; ;VALCKE;Hilde
+GO! muziekacademie Schaarbeek;False;Edward Stuckensstraat;125;;1140;Evere;Brussels Hoofdstedelijk Gewest;;; ; ;VALCKE;Hilde
+Muziekacademie van het Gemeenschapsonderwijs;True;Oudergemlaan;124;;1040;Etterbeek;Brussels Hoofdstedelijk Gewest;02 733 59 65;02 733 39 45;ma.etterbeek@gmail.com;www.machopin-etterbeek.be;DE CLERCK;Daniël
+Muziekacademie van het Gemeenschapsonderwijs;False;Edmond Mesenslaan;2;;1040;Etterbeek;Brussels Hoofdstedelijk Gewest;;; ; ;DE CLERCK;Daniël
+Muziekacademie van het Gemeenschapsonderwijs;False;Henri de Brouckèrelaan;16;;1160;Oudergem;Brussels Hoofdstedelijk Gewest;;; ; ;DE CLERCK;Daniël
+Muziekacademie van het Gemeenschapsonderwijs;False;Louis Vander Swaelmenlaan;25;;1170;Watermaal-Bosvoorde;Brussels Hoofdstedelijk Gewest;;; ; ;DE CLERCK;Daniël
+Muziekacademie van het Gemeenschapsonderwijs;False;Generaal Fivéstraat;42;;1040;Etterbeek;Brussels Hoofdstedelijk Gewest;;; ; ;DE CLERCK;Daniël
+Muziekacademie van het Gemeenschapsonderwijs;False;Cansstraat;14;;1050;Elsene;Brussels Hoofdstedelijk Gewest;;; ; ;DE CLERCK;Daniël
+GO! muziekacademie Anderlecht;True;Dapperheidsplein;5;;1070;Anderlecht;Brussels Hoofdstedelijk Gewest;02 522 05 51;02 524 28 38;dir@ma-an.be;www.ma-an.be;BARTHOLOMEUS;Luc
+GO! muziekacademie Anderlecht;False;Jan Vanderstraetenstraat;91;;1600;Sint-Pieters-Leeuw;Vlaams-Brabant;;; ; ;BARTHOLOMEUS;Luc
+GO! muziekacademie Anderlecht;False;Chrysantenstraat;26;;1020;Brussel;Brussels Hoofdstedelijk Gewest;;; ; ;BARTHOLOMEUS;Luc
+GO! muziekacademie Anderlecht;False;Garebaan;5;;1600;Sint-Pieters-Leeuw;Vlaams-Brabant;;; ; ;BARTHOLOMEUS;Luc
+Gemeentelijke Academie voor Muziek en Woord;True;Koning Boudewijnplein;3;;1082;Sint-Agatha-Berchem;Brussels Hoofdstedelijk Gewest;02 465 16 05;02 469 00 01;academiesab@gmail.com;www.academiesab.be;VERLIE;Karla
+Gemeentelijke Academie voor Muziek en Woord;False;Brusselsesteenweg;543;;1731;Asse;Vlaams-Brabant;;; ; ;VERLIE;Karla
+Gemeentelijke Academie voor Muziek en Woord;False;Gemeenteplein;2;;1702;Dilbeek;Vlaams-Brabant;;;;;VERLIE;Karla
+Gemeentelijke Academie voor Muziek en Woord;False;Dilbeekstraat;1;;1082;Sint-Agatha-Berchem;Brussels Hoofdstedelijk Gewest;;; ; ;VERLIE;Karla
+Gemeentelijke Academie voor Muziek en Woord;False;Dapperenstraat;20;;1081;Koekelberg;Brussels Hoofdstedelijk Gewest;;; ; ;VERLIE;Karla
+Jetse academie Muziek-Woord-Dans;True;Wilgstraat;1;;1090;Jette;Brussels Hoofdstedelijk Gewest;02 426 72 94;;directie.academie@jette.irisnet.be;www.jetseacademie.be;FRANCOIS;Hans
+Gemeentelijke Academie voor Muziek en Woord;False;François Vervloetstraat;10;;1180;Ukkel;Brussels Hoofdstedelijk Gewest;;; ; ;CROON;Rudy
+Gemeentelijke Academie voor Muziek en Woord;False;Floréallaan;14;;1180;Ukkel;Brussels Hoofdstedelijk Gewest;;; ; ;CROON;Rudy
+Gemeentelijke Academie voor Muziek en Woord;False;Joseph Aernautstraat;11;;1200;Sint-Lambrechts-Woluwe;Brussels Hoofdstedelijk Gewest;;; ; ;CROON;Rudy
+Gemeentelijke Academie voor Muziek en Woord;True;Berkenhof;;;1200;Sint-Lambrechts-Woluwe;Brussels Hoofdstedelijk Gewest;;; ; ;CROON;Rudy
+Gemeentelijke Academie voor muziek, woord en dans;True;Henri Vandermaelenstraat;61;;1150;Sint-Pieters-Woluwe;Brussels Hoofdstedelijk Gewest;02 773 18 55;;gma-secretariaat@woluwe1150.be;www.gmaspw.be;VERSCHUEREN;Joris
+Gemeentelijke Academie voor muziek, woord en dans;False;Doorndal;3;;1150;Sint-Pieters-Woluwe;Brussels Hoofdstedelijk Gewest;;; ; ;VERSCHUEREN;Joris
+Gemeentelijke Academie voor muziek, woord en dans;False;Orbanlaan;54;;1150;Sint-Pieters-Woluwe;Brussels Hoofdstedelijk Gewest;;; ; ;VERSCHUEREN;Joris
+Gemeentelijke Academie voor muziek, woord en dans;False;Charles Thielemanslaan;26;;1150;Sint-Pieters-Woluwe;Brussels Hoofdstedelijk Gewest;;; ; ;VERSCHUEREN;Joris
+Gemeentelijke Academie voor muziek, woord en dans;False;Emiel Bricoutlaan;61;;1950;Kraainem;Vlaams-Brabant;;; ; ;VERSCHUEREN;Joris
+Gemeentelijke Academie voor muziek, woord en dans;False;Louis Marcelisstraat;134;;1970;Wezembeek-Oppem;Vlaams-Brabant;;; ; ;VERSCHUEREN;Joris
+GO! muziekacademie Alsemberg;True;Witteweg;18;;1652;Beersel;Vlaams-Brabant;02 380 20 42;02 380 67 41;orfeus@ringscholen.be;www.orfeus.be;SAVENBERG;Peter
+GO! muziekacademie Alsemberg;False;H. Torleylaan;87;;1654;Beersel;Vlaams-Brabant;;; ; ;SAVENBERG;Peter
+GO! muziekacademie Alsemberg;False;Toekomstlaan;32;B;1640;Sint-Genesius-Rode;Vlaams-Brabant;;; ; ;SAVENBERG;Peter
+Gemeentelijke Kunstacademie Dil'arte;True;Kamerijklaan;50;;1700;Dilbeek;Vlaams-Brabant;02 466 30 96;02 463 16 24;academie@dilbeek.be;www.dilbeek.be;LAGACIE;Pieter
+"Kunstenacademie ""August De Boeck"" Asse";True;Neerstraat;19;;1730;Asse;Vlaams-Brabant;02 452 83 79;;sec@kunstenacademie.asse.be;www.kunstenacademie.asse.be;Servranckx;Sofie
+"Kunstenacademie ""August De Boeck"" Asse";False;Processiestraat;24;;1745;Opwijk;Vlaams-Brabant;;; ; ;Servranckx;Sofie
+"Kunstenacademie ""August De Boeck"" Asse";False;Stationsstraat;55;;1785;Merchtem;Vlaams-Brabant;;; ; ;Servranckx;Sofie
+"Kunstenacademie ""August De Boeck"" Asse";False;Brusselbaan;117;;1790;Affligem;Vlaams-Brabant;;;;;Servranckx;Sofie
+"Kunstenacademie ""August De Boeck"" Asse";False;Kerkstraat;4;;1742;Ternat;Vlaams-Brabant;;;;;Servranckx;Sofie
+"Academie ""Peter Benoit"" voor Muziek, Woord en Dans";True;Hendrik Ghijselenstraat;19;;1750;Lennik;Vlaams-Brabant;02 532 54 65;;mwdacademie@lennik.be;www.lennik.be;MOEYERSOONS;Johan
+"Academie ""Peter Benoit"" voor Muziek, Woord en Dans";False;Alfred Algoetstraat;31;;1750;Lennik;Vlaams-Brabant;;; ; ;MOEYERSOONS;Johan
+Gemeentelijke Academie voor Muziek, Woord en Dans;True;Dorpsstraat;36;A;1755;Gooik;Vlaams-Brabant;02 532 40 86;02 532 40 86;academie@gooik.be;www.gooik.be/academie;COPRIAU;Sarah
+Gemeentelijke Academie voor Muziek, Woord en Dans;False;Kammeersweg;2;;1570;Galmaarden;Vlaams-Brabant;;; ; ;COPRIAU;Sarah
+Gemeentelijke Academie voor Muziek, Woord en Dans;False;Markstraat;15;;1541;Herne;Vlaams-Brabant;;; ; ;COPRIAU;Sarah
+Gemeentelijke Academie voor Muziek, Woord en Dans;False;Centrum;15;;1540;Herne;Vlaams-Brabant;;; ; ;COPRIAU;Sarah
+Gemeentelijke Academie voor Muziek, Woord en Dans;True;Dr. H. Folletlaan;24;;1780;Wemmel;Vlaams-Brabant;02 462 06 35;;academiewemmel@wemmel.be;www.academiewemmel.be;DE CLERCQ;Geerhard
+Stedelijke Academie voor Muziek, Woord en Dans;False;Molenveld;26;;1982;Zemst;Vlaams-Brabant;;; ; ;JACOBS;Adelheid
+Stedelijke Academie voor Muziek, Woord en Dans;True;Bolwerkstraat;27;;1800;Vilvoorde;Vlaams-Brabant;;;secretariaat.academie@sovilvoorde.be;www.academievilvoorde.be;JACOBS;Adelheid
+De Academie Londerzeel;True;Mechelsestraat;63;;1840;Londerzeel;Vlaams-Brabant;052 30 08 94;052 31 16 05;directie@academie.londerzeel.be;academie.londerzeel.be;VAN HOEZEN;Sara
+De Academie Londerzeel;False;Jozef Vermaesenplein;20;;1840;Londerzeel;Vlaams-Brabant;;; ; ;VAN HOEZEN;Sara
+Gemeentelijke Academie voor Muziek, Woord en Dans;True;Ruwaal;14;;1850;Grimbergen;Vlaams-Brabant;02 270 82 38;02 267 19 90;secretariaat@academiegrimbergen.be;www.academiegrimbergen.be;STEVENS;Bart
+Gemeentelijke Academie voor Muziek, Woord en Dans;False;Verbeytstraat;40;;1853;Grimbergen;Vlaams-Brabant;;; ; ;STEVENS;Bart
+Akademie voor Muzische Kunsten;True;Brusselsesteenweg;64;;1860;Meise;Vlaams-Brabant;02 892 23 90;;secretariaat@akademiemeise.be;www.akademiemeise.be;VERMEIREN;Eva
+Akademie voor Muzische Kunsten;False;Papenmeuter;8;;1860;Meise;Vlaams-Brabant;;;;;VERMEIREN;Eva
+Kunstacademie Zaventem;True;Willem Lambertstraat;1;;1930;Zaventem;Vlaams-Brabant;02 720 05 28;02 721 59 03;info@academiezaventem.be;www.academiezaventem.be;VAN KEER;Saskia
+Kunstacademie Zaventem;False;Beekstraat;25;;3070;Kortenberg;Vlaams-Brabant;;; ; ;VAN KEER;Saskia
+Kunstacademie Zaventem;False;Rustoorddreef;1;;1930;Zaventem;Vlaams-Brabant;;; ; ;VAN KEER;Saskia
+Kunstacademie Zaventem;False;Bergstraat;15;;1910;Kampenhout;Vlaams-Brabant;;; ; ;VAN KEER;Saskia
+Muzische Academie GO!;True;Mechelsesteenweg;125;;2018;Antwerpen;Antwerpen;03 239 14 34;03 281 17 35;info@ma-go.be;www.ma-go.be;VANVAERENBERGH;Luc
+Muzische Academie GO!;False;Gloriantlaan;65;;2050;Antwerpen;Antwerpen;;; ; ;VANVAERENBERGH;Luc
+Muzische Academie GO!;False;Onderwijsstraat;19;;2540;Hove;Antwerpen;;; ; ;VANVAERENBERGH;Luc
+Muzische Academie GO!;False;Desguinlei;25;;2018;Antwerpen;Antwerpen;;; ; ;VANVAERENBERGH;Luc
+Muzische Academie GO!;False;Mortselsesteenweg;5;;2540;Hove;Antwerpen;;; ; ;VANVAERENBERGH;Luc
+Kunstacademie Deurne;True;Boshovestraat;173;;2100;Antwerpen;Antwerpen;03 324 70 71;03 324 70 71;info@academiedeurne.be;www.academiedeurne.be;VERTOMMEN;Luc
+Kunstacademie Deurne;False;Van den Hautelei;79;;2100;Antwerpen;Antwerpen;;; ; ;VERTOMMEN;Luc
+Gemeentelijke Muziek- en Woordacademie;True;Bergenstraat;2;;2110;Wijnegem;Antwerpen;03 353 75 41;03 354 35 67;info@academiewijnegem.be;www.academiewijnegem.be;Valkenborgh;Jan
+Gemeentelijke Muziek- en Woordacademie;False;Schoolstraat;44;;2970;Schilde;Antwerpen;;; ; ;Valkenborgh;Jan
+Gemeentelijke Muziek- en Woordacademie;False;Achterstraat;20;;2980;Zoersel;Antwerpen;;; ; ;Valkenborgh;Jan
+Academie Borgerhout Muziek-Woord;True;Collegelaan;3;;2140;Antwerpen;Antwerpen;03 292 43 50;03 292 43 59;info@academieborgerhout.be;www.academieborgerhout.be;Maniewski;Romek
+Academie Merksem Muziek-Woord-Dans;True;Nieuwdreef;135;;2170;Antwerpen;Antwerpen;03 641 60 20;03 641 60 25;lin.vanmierlo@so.antwerpen.be;www.academiemerksem.be;VAN MIERLO;Lin
+Academie Merksem Muziek-Woord-Dans;False;Gemeentepark;2;;2960;Brecht;Antwerpen;;; ; ;VAN MIERLO;Lin
+Academie Merksem Muziek-Woord-Dans;False;Kerklei;2;;2960;Brecht;Antwerpen;;; ; ;VAN MIERLO;Lin
+Academie Ekeren Muziek-Woord;True;Ferdinand Pauwelsstraat;102;;2180;Antwerpen;Antwerpen;03 542 62 10;03 542 62 11;info@academie-ekeren.be;www.academie-ekeren.be;VAN DAMME;Jan
+Academie Ekeren Muziek-Woord;False;Pastoor Goetschalckxstraat;57;;2180;Antwerpen;Antwerpen;;; ; ;VAN DAMME;Jan
+Academie Ekeren Muziek-Woord;False;Antwerpsebaan;150;;2040;Antwerpen;Antwerpen;;; ; ;VAN DAMME;Jan
+Stedelijke Academie voor Muziek en Woord en Dans;True;Hikstraat;28;;2200;Herentals;Antwerpen;014 21 33 05;;samwd@herentals.be;www.samwdherentals.be;SMOLDERS;Frank
+Stedelijke Academie voor Muziek en Woord en Dans;False;Kapelstraat;3;;2460;Kasterlee;Antwerpen;;; ; ;SMOLDERS;Frank
+Stedelijke Academie voor Muziek en Woord en Dans;False;Gierlebaan;26;;2275;Lille;Antwerpen;;; ; ;SMOLDERS;Frank
+Stedelijke Academie voor Muziek en Woord en Dans;False;Ring;26;;2200;Herentals;Antwerpen;;; ; ;SMOLDERS;Frank
+Stedelijke Academie voor Muziek en Woord en Dans;False;Schoolstraat;33;;2460;Kasterlee;Antwerpen;;; ; ;SMOLDERS;Frank
+Stedelijke Academie voor Muziek en Woord en Dans;False;Augustijnenlaan;31;;2200;Herentals;Antwerpen;;; ; ;SMOLDERS;Frank
+Stedelijke Academie voor Muziek en Woord en Dans;False;Mgr. Donchelei;7;;2290;Vorselaar;Antwerpen;;; ; ;SMOLDERS;Frank
+Gemeentelijke Academie voor Muziek-Woord-Dans;True;Oude Godstraat;8;;2220;Heist-op-den-Berg;Antwerpen;015 24 67 94;015 24 67 94;info@muwodaheist.be;www.heist-op-den-berg.be;VERMEYLEN;Martine
+Gemeentelijke Academie voor Muziek-Woord-Dans;False;Leuvensebaan;34;;2580;Putte;Antwerpen;;; ; ;VERMEYLEN;Martine
+Gemeentelijke Muziekacademie;True;Albertstraat;8;;2270;Herenthout;Antwerpen;014 50 08 55;;secretariaat.academie@klimopherenthout.be;academie.herenthout.be;GEUDENS;Tanja
+Gemeentelijke Muziekacademie;False;Berdenweg;5;;2288;Grobbendonk;Antwerpen;;; ; ;GEUDENS;Tanja
+Gemeentelijke Muziekacademie;False;Bovenpad;7;;2280;Grobbendonk;Antwerpen;;; ; ;GEUDENS;Tanja
+Gemeentelijke Muziekacademie;False;Bouwelse Steenweg;8;;2270;Herenthout;Antwerpen;;; ; ;GEUDENS;Tanja
+Stedelijke Academie voor Muziek, Woord en Dans;True;Academieplein;17;;2300;Turnhout;Antwerpen;014 41 36 38;014 42 86 17;samwd@turnhout.be;www.muziekacademie-turnhout.be;DE CLERCK;Greet
+Stedelijke Academie voor Muziek, Woord en Dans;False;Boudewijnstraat;18;;2340;Beerse;Antwerpen;;; ; ;DE CLERCK;Greet
+Stedelijke Academie voor Muziek, Woord en Dans;False;Konijnenbergpad;5;7;2350;Vosselaar;Antwerpen;;; ; ;DE CLERCK;Greet
+Stedelijke Academie voor Muziek, Woord en Dans;False;Peperstraat;11;;2470;Retie;Antwerpen;;; ; ;DE CLERCK;Greet
+Stedelijke Academie voor Muziek, Woord en Dans;False;Kerkstraat;64;;2340;Beerse;Antwerpen;;; ; ;DE CLERCK;Greet
+Stedelijke Academie voor Muziek, Woord en Dans;False;Schoolstraat;2;;2370;Arendonk;Antwerpen;;; ; ;DE CLERCK;Greet
+"Academie voor Muziek en Woord ""De Noorderkempen""";True;Pastoor de Katerstraat;5;;2387;Baarle-Hertog;Antwerpen;014 69 95 39;014 69 95 88;info@amwn.be;www.amwn.be;LYSENS;Jef
+"Academie voor Muziek en Woord ""De Noorderkempen""";False;Karel Boomstraat;44;;2320;Hoogstraten;Antwerpen;;; ; ;LYSENS;Jef
+"Academie voor Muziek en Woord ""De Noorderkempen""";False;Markt;17;;2330;Merksplas;Antwerpen;;;;;LYSENS;Jef
+"Academie voor Muziek en Woord ""De Noorderkempen""";False;Koning Albertstraat;57;;2381;Ravels;Antwerpen;;; ; ;LYSENS;Jef
+"Academie voor Muziek en Woord ""De Noorderkempen""";False;Molenstraat;5;;2310;Rijkevorsel;Antwerpen;;; ; ;LYSENS;Jef
+Gemeentelijke Academie voor Muziek en Woord;True;Guido Gezellestraat;31;A;2400;Mol;Antwerpen;014 31 38 21;014 33 09 29;amw@gemeentemol.be;www.amwmol.be;JANSSENS;Herbert
+Gemeentelijke Academie voor Muziek en Woord;False;Lorzestraat;37;;2480;Dessel;Antwerpen;;;;;JANSSENS;Herbert
+Gemeentelijke Academie voor Muziek en Woord;False;Bevrijdingsstraat;1;;2490;Balen;Antwerpen;;; ; ;JANSSENS;Herbert
+Stedelijke Muziekacademie;True;Stationsstraat;29;;2440;Geel;Antwerpen;014 58 80 04;;info@amwdgeel.be;www.amwdgeel.be;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Boerenkrijglaan;25;;2260;Westerlo;Antwerpen;;; ; ;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Larum;9;;2440;Geel;Antwerpen;;; ; ;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Smissestraat;3;;2430;Laakdal;Antwerpen;;; ; ;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Jos Geunsplein;1;;2260;Westerlo;Antwerpen;;; ; ;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Schoolstraat;42;;2430;Laakdal;Antwerpen;;; ; ;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Gasthuisstraat;33;;2450;Meerhout;Antwerpen;;;;;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Stationsstraat;11;;2440;Geel;Antwerpen;;; ; ;MAHIEU;Sabine
+Stedelijke Muziekacademie;False;Veerledorp;18;;2431;Laakdal;Antwerpen;;; ; ;MAHIEU;Sabine
+Stedelijke Academie voor Muziek, Woord en Dans;True;Gasthuisvest;50;;2500;Lier;Antwerpen;03 480 45 79;03 480 45 79;info@samwdlier.net;www.samwdlier.be;SCHELTJENS Erwin;HENDRIX Geert
+Stedelijke Academie voor Muziek, Woord en Dans;False;Pastorijstraat;60;;2590;Berlaar;Antwerpen;;; ; ;SCHELTJENS Erwin;HENDRIX Geert
+Stedelijke Academie voor Muziek, Woord en Dans;False;Statiestraat;13;;2560;Nijlen;Antwerpen;;;;;SCHELTJENS Erwin;HENDRIX Geert
+Stedelijke Academie voor Muziek, Woord en Dans;False;Gemeenteplein;25;;2520;Ranst;Antwerpen;;; ; ;SCHELTJENS Erwin;HENDRIX Geert
+Stedelijke Academie voor Muziek, Woord en Dans;False;Amelbergastraat;26;;2240;Zandhoven;Antwerpen;;;;;SCHELTJENS Erwin;HENDRIX Geert
+Stedelijke Academie voor Muziek, Woord en Dans;False;Liersesteenweg;25;;2547;Lint;Antwerpen;;; ; ;SCHELTJENS Erwin;HENDRIX Geert
+Stedelijke Academie voor Muziek, Woord en Dans;False;Dorpsplaats;1;;2390;Malle;Antwerpen;;; ; ;SCHELTJENS Erwin;HENDRIX Geert
+Stedelijke Academie voor Muziek, Woord en Dans;False;Jef Van Hoofplein;;;2530;Boechout;Antwerpen;;; ; ;SCHELTJENS Erwin;HENDRIX Geert
+Academie Muziek-Woord Berchem;True;Willem Van Laarstraat;15;;2600;Antwerpen;Antwerpen;03 286 43 63;03 283 43 68;info.muziekwoord@academieberchem.be;www.academieberchem.be;PLOVIE;Ronny
+Academie Muziek-Woord Berchem;False;Belgiëlei;99;;2018;Antwerpen;Antwerpen;;; ; ;PLOVIE;Ronny
+Academie Muziek-Woord Berchem;False;Durletstraat;8;;2018;Antwerpen;Antwerpen;;; ; ;PLOVIE;Ronny
+Academie Wilrijk;True;Doornstraat;8;;2610;Antwerpen;Antwerpen;03 338 54 50;;info@academiewilrijk.be;www.academiewilrijk.be;CORVERS;Patrick
+Academie Wilrijk;False;Carillolei;3;;2630;Aartselaar;Antwerpen;;;;;CORVERS;Patrick
+Academie Wilrijk;False;Terelststraat;69;;2650;Edegem;Antwerpen;;; ; ;CORVERS;Patrick
+Academie Muziek en Woord;True;Nijverheidsstraat;27;;2620;Hemiksem;Antwerpen;03 288 27 30;03 288 26 00;info.hemiksem@academiehsn.be;www.academiehsn.be;Verlaeckt;Kevin
+Academie Muziek en Woord;False;Emile Vanderveldelaan;23;;2845;Niel;Antwerpen;;;;;Verlaeckt;Kevin
+Academie Muziek en Woord;False;Provinciale Steenweg;100;;2627;Schelle;Antwerpen;;; ; ;Verlaeckt;Kevin
+Academie voor Muziek, Woord en Dans;True;Eggestraat;13;;2640;Mortsel;Antwerpen;03 449 72 77;03 449 93 34;info@amwdmortsel.be;www.amwdmortsel.be;PHILIPS;Geert
+Academie voor Muziek, Woord en Dans;False;Antwerpsesteenweg;79;;2550;Kontich;Antwerpen;;; ; ;PHILIPS;Geert
+Academie Hoboken Muziek-Woord-Dans;True;Lageweg;141;;2660;Antwerpen;Antwerpen;03 830 41 09;03 830 41 09;info@academiehoboken.be;www.academiehoboken.be;AERTS;Chryster
+Academie Hoboken Muziek-Woord-Dans;False;Lange Riddersstraat;48;;2000;Antwerpen;Antwerpen;;; ; ;AERTS;Chryster
+Stedelijk Conservatorium Mechelen;True;Melaan;3;5;2800;Mechelen;Antwerpen;;;conservatorium@mechelen.be;www.conservatoriummechelen.be;VAN DEN EYNDE;Tom
+Stedelijk Conservatorium Mechelen;False;Leibeekstraat;2;;2811;Mechelen;Antwerpen;;; ; ;VAN DEN EYNDE;Tom
+Stedelijk Conservatorium Mechelen;False;Wilsonstraat;3;;2860;Sint-Katelijne-Waver;Antwerpen;;; ; ;VAN DEN EYNDE;Tom
+Stedelijk Conservatorium Mechelen;False;Dorp;112;;2820;Bonheiden;Antwerpen;;; ; ;VAN DEN EYNDE;Tom
+Academie voor Muziek en Woord Willebroek;True;Kerkstraat;2;A;2830;Willebroek;Antwerpen;03 886 33 90;03 886 33 90;info@academiewillebroek.be;www.academiewillebroek.be;SEGERS;Christine
+Academie voor Muziek en Woord Willebroek;False;Blaasveldstraat;57;;2830;Willebroek;Antwerpen;;;;;SEGERS;Christine
+Academie voor Muziek en Woord Willebroek;False;Hinxelaar;4;;2830;Willebroek;Antwerpen;;; ; ;SEGERS;Christine
+Gemeentelijke Academie voor Muziek en Woord;True;Hospitaalstraat;27;;2850;Boom;Antwerpen;03 888 36 70;;gamw@boom.be;www.academieboom.be;TIELEMANS;Frans
+Gemeentelijke Academie voor Muziek en Woord;False;Beenhouwerstraat;3;;2890;Puurs-Sint-Amands;Antwerpen;;; ; ;TIELEMANS;Frans
+Gemeentelijke Academie voor Muziek en Woord;False;Kerkstraat;34;;2890;Puurs-Sint-Amands;Antwerpen;;;;;TIELEMANS;Frans
+Gemeentelijke Academie voor Muziek en Woord;False;Forum;9;;2890;Puurs-Sint-Amands;Antwerpen;;; ; ;TIELEMANS;Frans
+Gemeentelijke Academie voor Muziek en Woord;False;Laarstraat;21;;2840;Rumst;Antwerpen;;; ; ;TIELEMANS;Frans
+Akademie voor Muziek, Woord en Dans;True;Sint-Amandsesteenweg;41;;2880;Bornem;Antwerpen;03 890 69 55;03 890 69 31;amwd@bornem.be;www.bornem.be;WAUTERS;Christine
+Akademie voor Muziek, Woord en Dans;False;Edmond Vleminckxstraat;73;;2880;Bornem;Antwerpen;;; ; ;WAUTERS;Christine
+Akademie voor Muziek, Woord en Dans;False;Buisstraat;19;C;2890;Puurs-Sint-Amands;Antwerpen;;; ; ;WAUTERS;Christine
+Akademie voor Muziek, Woord en Dans;False;Oppuursdorp;48;;2890;Puurs-Sint-Amands;Antwerpen;;; ; ;WAUTERS;Christine
+Academie Schoten Beeld Muziek Woord Dans;True;Jozef Van Craenstraat;4;;2900;Schoten;Antwerpen;03 685 02 56;03 685 16 85;lisbeth.wolfs@schoten.be;www.academieschoten.be;WOLFS;Lisbeth
+Academie Schoten Beeld Muziek Woord Dans;False;Sint-Maria-ten-Boslei;10;;2900;Schoten;Antwerpen;;; ; ;WOLFS;Lisbeth
+Academie Schoten Beeld Muziek Woord Dans;False;Paalstraat;309;;2900;Schoten;Antwerpen;;; ; ;WOLFS;Lisbeth
+Muzarto, academie voor muziek, woord en dans Essen - Kalmthout;True;Kerkstraat;3;;2910;Essen;Antwerpen;03 667 33 79;03 667 33 79;secretariaatessen@muzarto.be;www.muzarto.be;VERMEERSCH;Sabine
+Muzarto, academie voor muziek, woord en dans Essen - Kalmthout;False;Kerkeneind;21;;2920;Kalmthout;Antwerpen;;;;;VERMEERSCH;Sabine
+"Gemeentelijke Academie voor Muziek en Woord ""Marcel Van Heuven""";True;Ploegsebaan;144;;2930;Brasschaat;Antwerpen;03 663 09 90;03 633 24 01;gamw@brasschaat.be;www.academiebrasschaat.be;VAN LOON;Katrien
+"Gemeentelijke Academie voor Muziek en Woord ""Marcel Van Heuven""";False;Antwerpsesteenweg;146;;2950;Kapellen;Antwerpen;;; ; ;VAN LOON;Katrien
+Gemeentelijke Academie voor Muziek, Woord en Dans;True;Dorpsstraat;87;;2990;Wuustwezel;Antwerpen;03 690 46 48;;directeur@academiewuustwezel.be;www.academiewuustwezel.be;Debaele;Stefanie
+Gemeentelijke Academie voor Muziek, Woord en Dans;False;Theo Verellenlaan;88;;2990;Wuustwezel;Antwerpen;;;;;Debaele;Stefanie
+Stedelijke Academie Conservatorium Muziek Woord Dans;True;Dirk Boutslaan;60;62;3000;Leuven;Vlaams-Brabant;016 22 21 21;016 22 21 21;conservatorium@leuven.be;www.slac-conservatorium.be;LEGAEY;Cathérine
+Stedelijke Academie Conservatorium Muziek Woord Dans;False;Rerum Novarumlaan;5;;3010;Leuven;Vlaams-Brabant;;; ; ;LEGAEY;Cathérine
+Stedelijke Academie Conservatorium Muziek Woord Dans;False;Erasme Ruelensvest;115;;3001;Leuven;Vlaams-Brabant;;; ; ;LEGAEY;Cathérine
+Stedelijke Academie Conservatorium Muziek Woord Dans;False;Celestijnenlaan;19;;3001;Leuven;Vlaams-Brabant;;;;;LEGAEY;Cathérine
+Stedelijke Academie Conservatorium Muziek Woord Dans;False;Waversebaan;66;;3001;Leuven;Vlaams-Brabant;;;;;LEGAEY;Cathérine
+Stedelijke Academie Conservatorium Muziek Woord Dans;False;Kortrijksebaan;2;;3220;Holsbeek;Vlaams-Brabant;;;;;LEGAEY;Cathérine
+Stedelijke Academie Conservatorium Muziek Woord Dans;False;Baron Descampslaan;105;;3018;Leuven;Vlaams-Brabant;;; ; ;LEGAEY;Cathérine
+Stedelijke Academie Conservatorium Muziek Woord Dans;False;Appelweg;4;;3221;Holsbeek;Vlaams-Brabant;;; ; ;LEGAEY;Cathérine
+Gemeentelijke Academie voor Muziek en Woord Oud-Heverlee;True;Armand Verheydenstraat;19;;3053;Oud-Heverlee;Vlaams-Brabant;016 40 16 17;016 40 16 17;directie@academiedevonk.be;www.academiedevonk.be;JONNIAUX;Johan
+Gemeentelijke Academie voor Muziek en Woord Oud-Heverlee;False;Dorpsstraat;85;;3050;Oud-Heverlee;Vlaams-Brabant;;; ; ;JONNIAUX;Johan
+Gemeentelijke Academie voor Muziek en Woord Oud-Heverlee;False;Beekstraat;13;;3051;Oud-Heverlee;Vlaams-Brabant;;;;;JONNIAUX;Johan
+Gemeentelijke Academie voor Muziek en Woord Oud-Heverlee;False;Armand Verheydenstraat;;;3053;Oud-Heverlee;Vlaams-Brabant;;; ; ;JONNIAUX;Johan
+GO! Academie voor Podiumkunsten Overijse;True;P.I. Taymansstraat;10;;3090;Overijse;Vlaams-Brabant;02 687 68 05;;info@apko.be;www.apko.be;VAN HULLE;Bernd
+GO! Academie voor Podiumkunsten Overijse;False;Hippolyte Boulengerlaan;7;;3080;Tervuren;Vlaams-Brabant;;; ; ;VAN HULLE;Bernd
+GO! Academie voor Podiumkunsten Overijse;False;Overijsesteenweg;16;;1560;Hoeilaart;Vlaams-Brabant;;; ; ;VAN HULLE;Bernd
+GO! Academie voor Podiumkunsten Overijse;False;Fr. Verbeekstraat;;;3090;Overijse;Vlaams-Brabant;;; ; ;VAN HULLE;Bernd
+Hagelandse Academie voor Muziek en Woord;True;Grauwzustersstraat;10;;3290;Diest;Vlaams-Brabant;013 32 69 29;013 32 75 13;info@hamw.be;www.hamw.be;Dries;Koen
+Hagelandse Academie voor Muziek en Woord;False;August Nihoulstraat;76;B;3270;Scherpenheuvel-Zichem;Vlaams-Brabant;;; ; ;Dries;Koen
+Hagelandse Academie voor Muziek en Woord;False;Nieuwland;3;;3200;Aarschot;Vlaams-Brabant;;; ; ;Dries;Koen
+Hagelandse Academie voor Muziek en Woord;False;Schoolstraat;44;;3110;Rotselaar;Vlaams-Brabant;;; ; ;Dries;Koen
+Kunstacademie Regio Tienen;True;Grote Markt;3;;3300;Tienen;Vlaams-Brabant;016 80 56 88;016 82 14 89;muziekacademie@tienen.be;www.tienen.be/art;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Neerlintersesteenweg;22;;3300;Tienen;Vlaams-Brabant;;;;;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Leuvensesteenweg;187;;3390;Tielt-Winge;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Dorpsplein;33;;3470;Kortenaken;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Stoopkensstraat;82;;3320;Hoegaarden;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Kerkomsesteenweg;45;;3370;Boutersem;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Kapucijnenstraat;57;;3300;Tienen;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Dorpsstraat;2;;3210;Lubbeek;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Martelarenplaats;1;;3210;Lubbeek;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Kerkplein;2;;3212;Lubbeek;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Kunstacademie Regio Tienen;False;Dries;26;;3380;Glabbeek;Vlaams-Brabant;;; ; ;FOULON Jo;MINEUR Kilian
+Stedelijk Conservatorium voor Muziek, Woord en Dans;True;Kunstlaan;12;;3500;Hasselt;Limburg;011 22 85 75;011 26 14 95;conservatorium@hasselt.be;www.kunstencampushasselt.be;Lambrecht;Sara
+Stedelijk Conservatorium voor Muziek, Woord en Dans;False;Kleine Hemmenweg;4;A;3520;Zonhoven;Limburg;;; ; ;Lambrecht;Sara
+Stedelijk Conservatorium voor Muziek, Woord en Dans;False;Kerkplein;1;;3520;Zonhoven;Limburg;;; ; ;Lambrecht;Sara
+Stedelijk Conservatorium voor Muziek, Woord en Dans;False;Grotstraat;5;;3570;Alken;Limburg;;; ; ;Lambrecht;Sara
+Academie voor Muziek, Woord en Dans;True;Harpstraat;14;;3582;Beringen;Limburg;011 42 42 77;011 45 28 17;secretariaat@academieberingen.be;www.academieberingen.be;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Bivakstraat;6;;3581;Beringen;Limburg;;; ; ;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Tessenderlosesteenweg;18;;3583;Beringen;Limburg;;;;;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Schomstraat;6;;3550;Heusden-Zolder;Limburg;;;;;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Beekbeemdenhof;1;;3550;Heusden-Zolder;Limburg;;; ; ;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Pastorijstraat;30;;3530;Houthalen-Helchteren;Limburg;;; ; ;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Kerkstraat;12;A;3560;Lummen;Limburg;;; ; ;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Kastanjedreef;1;;3970;Leopoldsburg;Limburg;;; ; ;MINTEN;Bert
+Academie voor Muziek, Woord en Dans;False;Jeugdpad;9;;3582;Beringen;Limburg;;; ; ;MINTEN;Bert
+GA voor Kunst/ Muziek, Woord & Dans;True;Stadsplein;1;;3600;Genk;Limburg;089 30 96 11;089 35 64 55;info@gavoorkunst.be;www.gavoorkunst.be;NOTEN;PETER
+GA voor Kunst/ Muziek, Woord & Dans;False;Halmstraat;6;;3600;Genk;Limburg;;; ; ;NOTEN;PETER
+GA voor Kunst/ Muziek, Woord & Dans;False;Kloosterstraat;34;;3590;Diepenbeek;Limburg;;; ; ;NOTEN;PETER
+GA voor Kunst/ Muziek, Woord & Dans;False;Gildenstraat;10;;3660;Oudsbergen;Limburg;;; ; ;NOTEN;PETER
+GA voor Kunst/ Muziek, Woord & Dans;False;Zonhoverweg;67;;3600;Genk;Limburg;;; ; ;NOTEN;PETER
+Gemeentelijke Academie voor Muziek en Woord;True;Biesweg;20;;3620;Lanaken;Limburg;089 71 22 10;089 73 29 74;academie@lanaken.be;www.kunstkoepel.be;SLANGEN;Wim
+Gemeentelijke Academie voor Muziek en Woord;False;Kloosterstraat;9;;3740;Bilzen;Limburg;;; ; ;SLANGEN;Wim
+Gemeentelijke Academie voor Muziek en Woord;False;Schoolstraat;6;;3690;Zutendaal;Limburg;;; ; ;SLANGEN;Wim
+Gemeentelijke Academie voor Muziek en Woord;False;Sint Pieter;2;;3621;Lanaken;Limburg;;; ; ;SLANGEN;Wim
+Gemeentelijke Academie voor Muziek en Woord;False;Appelboomgaardstraat;7;9;3740;Bilzen;Limburg;;; ; ;SLANGEN;Wim
+Gemeentelijke Academie voor Muziek, Woord en dans;True;Zetellaan;50;;3630;Maasmechelen;Limburg;089 76 97 77;089 76 97 79;secretariaat@academiemaasmechelen.be;www.academiemaasmechelen.be;PRILS;Marc
+Gemeentelijke Academie voor Muziek, Woord en dans;False;Parklaan;3;;3630;Maasmechelen;Limburg;;; ; ;PRILS;Marc
+Gemeentelijke Academie voor Muziek, Woord en dans;False;Rijksweg;357;;3630;Maasmechelen;Limburg;;; ; ;PRILS;Marc
+Stedelijke Kunstacademie;True;Schuttersstraat;7;;3650;Dilsen-Stokkem;Limburg;089 75 57 56;089 75 36 24;marc.vanhengel@gmail.com;www.academiedilsenstokkem.net;VANHENGEL;Marc
+Stedelijke Kunstacademie;False;Koning Boudewijnplein;4;;3650;Dilsen-Stokkem;Limburg;;; ; ;VANHENGEL;Marc
+Stedelijke Kunstacademie;False;Schoolstraat;1;;3668;As;Limburg;;; ; ;VANHENGEL;Marc
+Stedelijke Kunstacademie;False;Kerkstraat;6;;3665;As;Limburg;;; ; ;VANHENGEL;Marc
+Stedelijke Academie voor Kunsten Maaseik;True;Boomgaardstraat;10;;3680;Maaseik;Limburg;089 56 08 60;;anita.frantzen@maaseik.be;www.academiemaaseik.be;VANDECAETSBEEK;John
+Stedelijke Academie voor Kunsten Maaseik;False;Scholtisplein;1;;3680;Maaseik;Limburg;;; ; ;VANDECAETSBEEK;John
+Stedelijke Academie voor Kunsten Maaseik;False;Schoolstraat;20;;3680;Maaseik;Limburg;;; ; ;VANDECAETSBEEK;John
+Stedelijke Academie voor Kunsten Maaseik;False;Nelisveld;5;2;3640;Kinrooi;Limburg;;; ; ;VANDECAETSBEEK;John
+Stedelijke Academie voor Kunsten Maaseik;False;Kloosterstraat;13;;3960;Bree;Limburg;;; ; ;VANDECAETSBEEK;John
+Academie Tongeren Muziek en Woord;True;Sacramentstraat;70;;3700;Tongeren;Limburg;012 23 70 38;012 24 12 30;kelly@pentagoon.be;www.pentagoon.be;NIHOUL;Jan
+Academie Tongeren Muziek en Woord;False;Europalaan;2;;3730;Hoeselt;Limburg;;; ; ;NIHOUL;Jan
+Academie Tongeren Muziek en Woord;False;Nieuwland;11;B;3840;Borgloon;Limburg;;; ; ;NIHOUL;Jan
+Kunstacademie Voeren-Riemst;True;Kloosterstraat;19;;3798;Voeren;Limburg;04 381 11 19;04 381 22 59;info@academievoerenriemst.be;www.academievoerenriemst.be;ONCLIN;Conrad
+Kunstacademie Voeren-Riemst;False;Kerkstraat;35;;3770;Riemst;Limburg;;; ; ;ONCLIN;Conrad
+Kunstacademie Voeren-Riemst;False;Kerkstraat;28;;3770;Riemst;Limburg;;; ; ;ONCLIN;Conrad
+Academie Haspengouw Podium;False;Sportlaan;4;A;3545;Halen;Limburg;;; ; ;Lavrysen;Geert
+Academie Haspengouw Podium;False;Dorpsstraat;7;B;3450;Geetbets;Vlaams-Brabant;;; ; ;Lavrysen;Geert
+Academie Haspengouw Podium;False;Hannuitstraat;8;;3890;Gingelom;Limburg;;; ; ;Lavrysen;Geert
+Academie Haspengouw Podium;False;Nieuwe Steenweg;141;;3870;Heers;Limburg;;; ; ;Lavrysen;Geert
+Academie Haspengouw Podium;False;Opcosenstraat;7;;3850;Nieuwerkerken;Limburg;;; ; ;Lavrysen;Geert
+Academie Haspengouw Podium;False;Prins Leopoldplaats;3;;3440;Zoutleeuw;Vlaams-Brabant;;; ; ;Lavrysen;Geert
+Academie Haspengouw Podium;False;Hannuitsesteenweg;80;;3400;Landen;Vlaams-Brabant;;; ; ;Lavrysen;Geert
+Academie Haspengouw Podium;True;Gazometerstraat;5;;3800;Sint-Truiden;Limburg;;;info@AHpodium.be;www.academiehaspengouw.be;Lavrysen;Geert
+Academie Haspengouw Podium;False;Dokter Vanweddingenlaan;10;;3540;Herk-de-Stad;Limburg;;; ; ;Lavrysen;Geert
+Noord-Limburgse Academie voor Muziek,Woord,Dans;True;Toekomstlaan;9;;3910;Pelt;Limburg;011 80 87 10;;info@kanl.be;www.kanl.be;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Groenstraat;8;;3941;Hechtel-Eksel;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Jeugdlaan;2;A;3900;Pelt;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Michielsplein;3;;3930;Hamont-Achel;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Albertus Morrenstraat;6;;3990;Peer;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Nevenplein;1;;3950;Bocholt;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Kloosterstraat;5;;3670;Oudsbergen;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Phil Bosmansplein;1;;3670;Oudsbergen;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Jan Davidlaan;9;;3920;Lommel;Limburg;;; ; ;CELIS;Diederik
+Noord-Limburgse Academie voor Muziek,Woord,Dans;False;Overpelterbaan;14;;3941;Hechtel-Eksel;Limburg;;; ; ;CELIS;Diederik
+Academie voor Muziek en Woord;True;Stationsstraat;40;;3980;Tessenderlo;Limburg;013 66 67 59;013 67 46 38;academie@tessenderlo.be;www.tessenderlo.be;LEEMANS;Pieter
+Academie voor Muziek en Woord;False;Dorpsstraat;19;;3945;Ham;Limburg;;; ; ;LEEMANS;Pieter
+Stedelijk Conservatorium;False;Astridlaan;86;;8310;Brugge;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Diksmuidse Heerweg;159;;8200;Brugge;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Fortuinstraat;29;;8310;Brugge;West-Vlaanderen;;;;;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Rijselstraat;71;;8200;Brugge;West-Vlaanderen;;;;;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Achiel Van Ackerplein;1;;8000;Brugge;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Schooldreef;6;;8020;Oostkamp;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;True;Hugo Losschaertstraat;5;A;8000;Brugge;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Kapellestraat;16;;8490;Jabbeke;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Westernieuwweg;5;;8490;Jabbeke;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+Stedelijk Conservatorium;False;Patersonstraat;98;;8020;Oostkamp;West-Vlaanderen;;; ; ;VANCRAEYNEST;Michael
+MAAK - Open Huis voor Kunsten;True;Van Steenestraat;9;;8300;Knokke-Heist;West-Vlaanderen;050 63 08 50;;maak@knokke-heist.be;maak.knokke-heist.be;De Roeck;Filip
+MAAK - Open Huis voor Kunsten;False;Stadhuisstraat;6;;8300;Knokke-Heist;West-Vlaanderen;;; ; ;De Roeck;Filip
+Stedelijke Academie voor Muziek en Woord;True;de Smet de Naeyerlaan;141;145;8370;Blankenberge;West-Vlaanderen;050 41 33 27;050 42 44 57;muziekacademie@blankenberge.be;https://www.blankenberge.be/academie;LEDAINE;Peter
+Stedelijke Academie voor Muziek en Woord;False;Leopoldlaan;24;;8420;De Haan;West-Vlaanderen;;; ; ;LEDAINE;Peter
+Conservatorium aan Zee;True;Romestraat;36;;8400;Oostende;West-Vlaanderen;059 70 70 08;;conservatorium@soo.be;www.conservatoriumaanzee.be;OOMS;Dirk
+Conservatorium aan Zee;False;Hoogstraat;1;;8470;Gistel;West-Vlaanderen;;;;;OOMS;Dirk
+Conservatorium aan Zee;False;Hoogstraat;17;;8460;Oudenburg;West-Vlaanderen;;; ; ;OOMS;Dirk
+Stedelijk Conservatorium;True;Conservatoriumplein;3;;8500;Kortrijk;West-Vlaanderen;056 27 78 80;;conservatorium@kortrijk.be;www.kortrijk.be/conservatorium;DESIMPELAERE;Eric
+Stedelijk Conservatorium;False;Moeskroensesteenweg;69;;8511;Kortrijk;West-Vlaanderen;;; ; ;DESIMPELAERE;Eric
+Stedelijk Conservatorium;False;Schoolstraat;2;;8501;Kortrijk;West-Vlaanderen;;;;;DESIMPELAERE;Eric
+Stedelijk Conservatorium;False;Poststraat;20;;8560;Wevelgem;West-Vlaanderen;;;;;DESIMPELAERE;Eric
+Stedelijk Conservatorium;False;Kasteelstraat;5;;8580;Avelgem;West-Vlaanderen;;;;;DESIMPELAERE;Eric
+"Stedelijke Academie voor Muziek, Woord en Dans ""Peter Benoit""";True;Toekomststraat;29;;8530;Harelbeke;West-Vlaanderen;056 71 48 10;056 73 35 69;samwd@harelbeke.be;www.harelbeke.be/samwd;KERKHOVE;Inge
+"Stedelijke Academie voor Muziek, Woord en Dans ""Peter Benoit""";False;Bavikhovedorp;16;;8531;Harelbeke;West-Vlaanderen;;;;;KERKHOVE;Inge
+"Stedelijke Academie voor Muziek, Woord en Dans ""Peter Benoit""";False;Tieltsestraat;31;;8531;Harelbeke;West-Vlaanderen;;;;;KERKHOVE;Inge
+"Stedelijke Academie voor Muziek, Woord en Dans ""Peter Benoit""";False;Generaal Deprezstraat;91;;8530;Harelbeke;West-Vlaanderen;;; ; ;KERKHOVE;Inge
+"Stedelijke Academie voor Muziek, Woord en Dans ""Peter Benoit""";False;Sint-Amandusstraat;16;;8540;Deerlijk;West-Vlaanderen;;; ; ;KERKHOVE;Inge
+"Stedelijke Academie voor Muziek, Woord en Dans ""Peter Benoit""";False;Pladijsstraat;276;;8540;Deerlijk;West-Vlaanderen;;; ; ;KERKHOVE;Inge
+Kunstenacademie Diksmuide Clemens non Papa;True;Koning Albertstraat;24;;8600;Diksmuide;West-Vlaanderen;051 79 34 30;;kadens@diksmuide.be;www.kadens.be;VERMEIRSCH;Bart
+Kunstenacademie Diksmuide Clemens non Papa;False;Mgr. Schottestraat;1;;8650;Houthulst;West-Vlaanderen;;; ; ;VERMEIRSCH;Bart
+Kunstenacademie Diksmuide Clemens non Papa;False;Keiemdorpstraat;51;;8600;Diksmuide;West-Vlaanderen;;; ; ;VERMEIRSCH;Bart
+Kunstenacademie Diksmuide Clemens non Papa;False;Paardedreef;6;;8650;Houthulst;West-Vlaanderen;;; ; ;VERMEIRSCH;Bart
+Stedelijke Academie voor Podiumkunsten Westhoek;True;Noordstraat;18;;8630;Veurne;West-Vlaanderen;058 33 05 71;058 33 05 99;pieter.tieghem@veurne.be;www.stapwest.be;TIEGHEM;Pieter
+Stedelijke Academie voor Podiumkunsten Westhoek;False;Helvetiastraat;47;;8670;Koksijde;West-Vlaanderen;;; ; ;TIEGHEM;Pieter
+Stedelijke Academie voor Podiumkunsten Westhoek;False;Hoogstraat;2;;8620;Nieuwpoort;West-Vlaanderen;;; ; ;TIEGHEM;Pieter
+Stedelijke Academie voor Muziek en Woord;True;Lakenmarkt;4;;8700;Tielt;West-Vlaanderen;051 40 23 18;051 40 51 89;samw@tielt.be;www.academietielt.be;SNAUWAERT;Bart
+Stedelijke Academie voor Muziek en Woord;False;Karel van Manderstraat;26;;8760;Meulebeke;West-Vlaanderen;;; ; ;SNAUWAERT;Bart
+Stedelijke Academie voor Muziek en Woord;False;Fonteinestraat;22;;8740;Pittem;West-Vlaanderen;;; ; ;SNAUWAERT;Bart
+Stedelijke Academie voor Muziek en Woord;False;Nieuwstraat;16;;8750;Wingene;West-Vlaanderen;;; ; ;SNAUWAERT;Bart
+Stedelijke Academie voor Muziek en Woord;False;Regenboogstraat;50;;8750;Wingene;West-Vlaanderen;;; ; ;SNAUWAERT;Bart
+Stedelijke Academie voor Muziek en Woord;False;Krommewalstraat;;z/n;8700;Tielt;West-Vlaanderen;;; ; ;SNAUWAERT;Bart
+Stedelijke Kunstacademie;True;Olmstraat;25;29;8790;Waregem;West-Vlaanderen;056 60 09 18;056 60 09 87;kerlijne.chanterie@academiewaregem.be;WWW.academiewaregem.be;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Remi Vanmeerhaeghestraat;61;;8790;Waregem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Pompoenstraat;44;;8792;Waregem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Koekoekstraat;26;;8793;Waregem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Koning Albertstraat;41;;8791;Waregem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Landergemstraat;1;B2;8570;Anzegem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Beukenhofstraat;38;;8570;Anzegem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Markegemstraat;49;;8720;Dentergem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Markt;32;;8790;Waregem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Molenstraat;69;;8710;Wielsbeke;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Kunstacademie;False;Ingooigemplaats;58;;8570;Anzegem;West-Vlaanderen;;; ; ;CHANTERIE;Kerlijne
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;True;Meenseheirweg;20;;8800;Roeselare;West-Vlaanderen;051 22 97 07;051 22 85 37;info@staproeselare.be;www.staproeselare.be;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Sint-Jorisplein;1;;8680;Koekelare;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Torhoutstraat;36;;8610;Kortemark;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Sint-Eloois-Winkelstraat;84;A;8880;Ledegem;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Beverenstraat;18;;8810;Lichtervelde;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Roeselaarsestraat;60;;8890;Moorslede;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Hogestraat;25;;8830;Hooglede;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Nieuwplaats;1;;8830;Hooglede;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Plaats;28;;8890;Moorslede;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Blinde-Rodenbachstraat;23;;8800;Roeselare;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Izegemseaardeweg;30;;8800;Roeselare;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Stedelijke Academie voor Podiumkunsten Adriaan Willaert;False;Ooststraat;4;;8840;Staden;West-Vlaanderen;;; ; ;LIEVENS;Dirk
+Art'Iz, Kunstacademie regio Izegem;True;Kruisstraat;13;;8870;Izegem;West-Vlaanderen;051 30 34 35;;artiz@izegem.be;www.artiz-izegem.be;BELAEN;Wim
+Art'Iz, Kunstacademie regio Izegem;False;Hogestraat;66;;8870;Izegem;West-Vlaanderen;;;;;BELAEN;Wim
+Art'Iz, Kunstacademie regio Izegem;False;Kaaistraat;80;;8850;Ardooie;West-Vlaanderen;;; ; ;BELAEN;Wim
+Art'Iz, Kunstacademie regio Izegem;False;Schoolstraat;4;A;8770;Ingelmunster;West-Vlaanderen;;; ; ;BELAEN;Wim
+Art'Iz, Kunstacademie regio Izegem;False;A. Dassonvillelaan;3;;8860;Lendelede;West-Vlaanderen;;; ; ;BELAEN;Wim
+Art'Iz, Kunstacademie regio Izegem;False;Markt;;;8780;Oostrozebeke;West-Vlaanderen;;;;;BELAEN;Wim
+Art'Iz, Kunstacademie regio Izegem;False;Rollegemkapelsestraat;16;;8880;Ledegem;West-Vlaanderen;;; ; ;BELAEN;Wim
+dé Academie, afdeling muziek woord;True;Weverijstraat;35;;8900;Ieper;West-Vlaanderen;057 20 22 84;057 20 31 50;academie.muziekwoord@ieper.be;www.academie-ieper.be;LOGGHE;Nico
+dé Academie, afdeling muziek woord;False;Boezingestraat;2;A;8904;Ieper;West-Vlaanderen;;; ; ;LOGGHE;Nico
+dé Academie, afdeling muziek woord;False;Poelkapellestraat;36;;8920;Langemark-Poelkapelle;West-Vlaanderen;;;;;LOGGHE;Nico
+dé Academie, afdeling muziek woord;False;Capucienenstraat;102;;8900;Ieper;West-Vlaanderen;;;;;LOGGHE;Nico
+dé Academie, afdeling muziek woord;False;4e Regiment Karabiniersstraat;9;;8980;Zonnebeke;West-Vlaanderen;;; ; ;LOGGHE;Nico
+dé Academie, afdeling muziek woord;False;Langemarkstraat;34;;8980;Zonnebeke;West-Vlaanderen;;; ; ;LOGGHE;Nico
+Academie voor Muziek en Woord - stad Menen;True;Yv. Serruysstraat;42;;8930;Menen;West-Vlaanderen;056 51 30 34;056 51 53 98;muziek.woord@menen.be;www.academiemenen.be;VERSTRAETE;Hannes
+Academie voor Muziek en Woord - stad Menen;False;Hospitaalstraat;14;;8930;Menen;West-Vlaanderen;;;;;VERSTRAETE;Hannes
+Academie voor Muziek en Woord - stad Menen;False;Hellestraat;15;;8940;Wervik;West-Vlaanderen;;; ; ;VERSTRAETE;Hannes
+Academie voor Muziek en Woord - stad Menen;False;Beselarestraat;33;;8940;Wervik;West-Vlaanderen;;;;;VERSTRAETE;Hannes
+Academie voor Muziek en Woord - stad Menen;False;Sint-Janstraat;18;;8560;Wevelgem;West-Vlaanderen;;; ; ;VERSTRAETE;Hannes
+Academie voor Muziek en Woord - stad Menen;False;Cultuurpad;4;;8560;Wevelgem;West-Vlaanderen;;; ; ;VERSTRAETE;Hannes
+Stedelijke Academie voor Muziek en Woord;True;Oostlaan;11;A;8970;Poperinge;West-Vlaanderen;057 33 39 51;057 33 93 43;kunstacademie@poperinge.be;kunstacademiepoperinge.be;CHIELENS;Wim
+Stedelijke Academie voor Muziek en Woord;False;Ieperstraat;10;D;8647;Lo-Reninge;West-Vlaanderen;;; ; ;CHIELENS;Wim
+GO] Kunstacademie Gent - De Poel;True;Poel;17;;9000;Gent;Oost-Vlaanderen;09 225 04 79;09 233 54 03;paul.voet@muziek-academie.be;www.scholengroep.gent;VOET;Paul
+GO] Kunstacademie Gent - De Poel;False;Groenewandeling;80;;9031;Gent;Oost-Vlaanderen;;;;;VOET;Paul
+GO] Kunstacademie Gent - De Poel;False;Hofbilkstraat;21;;9940;Evergem;Oost-Vlaanderen;;; ; ;VOET;Paul
+GO] Kunstacademie Gent - De Poel;False;Akkerken;2;;9940;Evergem;Oost-Vlaanderen;;; ; ;VOET;Paul
+GO] Kunstacademie Gent - De Poel;False;Goedlevenstraat;78;;9041;Gent;Oost-Vlaanderen;;; ; ;VOET;Paul
+Academie de Kunstbrug Gent;True;Braemkasteelstraat;26;;9050;Gent;Oost-Vlaanderen;09 230 21 21;09 230 95 53;ac.dekunstbrug@gent.be; ;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Coupure;52;;9000;Gent;Oost-Vlaanderen;;; ; ;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Trekweg;1;;9030;Gent;Oost-Vlaanderen;;;;;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Brusselsesteenweg;397;;9090;Melle;Oost-Vlaanderen;;; ; ;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Wautersdreef;25;;9090;Melle;Oost-Vlaanderen;;; ; ;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Ottogracht;4;;9000;Gent;Oost-Vlaanderen;;; ; ;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Kerkham;3;D/;9070;Destelbergen;Oost-Vlaanderen;;; ; ;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Watertorenstraat;5;;9050;Gent;Oost-Vlaanderen;;; ; ;DE WEERT;Michael
+Academie de Kunstbrug Gent;False;Cataloniëstraat;1;;9000;Gent;Oost-Vlaanderen;;; ; ;DE WEERT;Michael
+Academie voor Podiumkunsten;True;Tweebruggenstraat;59;;9000;Gent;Oost-Vlaanderen;09 230 38 83;09 230 38 83;academiepodiumkunsten@stad.gent;https://www.apk-gent.be/;MERCKX;Peter
+Academie voor Podiumkunsten;False;Achterstraat;18;;9040;Gent;Oost-Vlaanderen;;; ; ;MERCKX;Peter
+Academie voor Podiumkunsten;False;Kerkdreef;9;;9051;Gent;Oost-Vlaanderen;;;;;MERCKX;Peter
+Academie voor Podiumkunsten;False;Gentstraat;212;;9041;Gent;Oost-Vlaanderen;;;;;MERCKX;Peter
+Academie voor Podiumkunsten;False;Zwijnaardsesteenweg;6;;9820;Merelbeke;Oost-Vlaanderen;;; ; ;MERCKX;Peter
+Academie voor Podiumkunsten;False;Sint-Pietersaalststraat;78;;9000;Gent;Oost-Vlaanderen;;; ; ;MERCKX;Peter
+Stedelijke Academie voor Muziek-Woord-Dans;True;Hofstraat;13;;9100;Sint-Niklaas;Oost-Vlaanderen;03 778 38 50;;academie.podium@sint-niklaas.be;www.academiesintniklaas.be;Haerinck;Tim
+Stedelijke Academie voor Muziek-Woord-Dans;False;Sint-Andriesstraat;2;;9111;Sint-Niklaas;Oost-Vlaanderen;;; ; ;Haerinck;Tim
+Stedelijke Academie voor Muziek-Woord-Dans;False;Pastorijstraat;48;50;9100;Sint-Niklaas;Oost-Vlaanderen;;; ; ;Haerinck;Tim
+Stedelijke Academie voor Muziek-Woord-Dans;False;Edgard Tinelstraat;29;;9112;Sint-Niklaas;Oost-Vlaanderen;;; ; ;Haerinck;Tim
+Stedelijke Academie voor Muziek-Woord-Dans;False;Polenlaan;46;;9190;Stekene;Oost-Vlaanderen;;; ; ;Haerinck;Tim
+Stedelijke Academie voor Muziek-Woord-Dans;False;Hoogkamerstraat;1;;9140;Temse;Oost-Vlaanderen;;;;;Haerinck;Tim
+Stedelijke Academie voor Muziek-Woord-Dans;False;Kardinaal J.Cardijnstraat;;;9170;Sint-Gillis-Waas;Oost-Vlaanderen;;; ; ;Haerinck;Tim
+Gemeentelijke Kunstacademie;True;Lijsterbessenlaan;24;;9120;Beveren;Oost-Vlaanderen;03 775 35 79;03 775 35 79;academie@beveren.be;www.dekunstacademiebeveren.be;DE VOLDER;Hans
+Gemeentelijke Kunstacademie;False;Molenstraat;58;;9130;Beveren;Oost-Vlaanderen;;;;;DE VOLDER;Hans
+Gemeentelijke Kunstacademie;False;Schoolstraat;15;;9120;Beveren;Oost-Vlaanderen;;;;;DE VOLDER;Hans
+Gemeentelijke Kunstacademie;False;Dorpstraat;9;;9150;Kruibeke;Oost-Vlaanderen;;; ; ;DE VOLDER;Hans
+Gemeentelijke Kunstacademie;False;Hoog-Kallostraat;30;;9120;Beveren;Oost-Vlaanderen;;; ; ;DE VOLDER;Hans
+Kunstacademie Ter Beuken;True;Groendreef;8;;9160;Lokeren;Oost-Vlaanderen;09 348 01 81;09 348 01 81;kunstacademie@lokeren.be;www.lokeren.be/kunstacademie;SMEDTS;Inge
+Kunstacademie Ter Beuken;False;Dam;67;;9160;Lokeren;Oost-Vlaanderen;;; ; ;SMEDTS;Inge
+Kunstacademie Ter Beuken;False;Bookmolenstraat;2;;9240;Zele;Oost-Vlaanderen;;; ; ;SMEDTS;Inge
+Kunstacademie Ter Beuken;False;Nijverheidslaan;48;;9250;Waasmunster;Oost-Vlaanderen;;; ; ;SMEDTS;Inge
+Kunstacademie Ter Beuken;False;Schoolstraat;16;;9080;Lochristi;Oost-Vlaanderen;;; ; ;SMEDTS;Inge
+Stedelijke Academie voor Muziek, Woord en Dans;False;Dokter Haekstraat;33;A2;9200;Dendermonde;Oost-Vlaanderen;;; ; ;VAN CANEGHEM;Katrien
+Stedelijke Academie voor Muziek, Woord en Dans;True;Gentsesteenweg;1;;9200;Dendermonde;Oost-Vlaanderen;;; ; ;VAN CANEGHEM;Katrien
+Gemeentelijke Academie Voor Muziek,Woord en Dans;False;Vredestraat;1;;9220;Hamme;Oost-Vlaanderen;;; ; ;VANDERMEULEN;Raf
+Gemeentelijke Academie Voor Muziek,Woord en Dans;False;Meulenbroekstraat;28;;9220;Hamme;Oost-Vlaanderen;;; ; ;VANDERMEULEN;Raf
+Gemeentelijke Academie Voor Muziek,Woord en Dans;True;Damputstraat;39;;9220;Hamme;Oost-Vlaanderen;;; ; ;VANDERMEULEN;Raf
+KunstAcademie afdeling Muziek en Woord;True;Schooldreef;40;;9230;Wetteren;Oost-Vlaanderen;09 369 24 90;09 366 56 23;kunstacademie@wetteren.be;www.kunstacademiewetteren.be;DE GEEST;Lieven
+KunstAcademie afdeling Muziek en Woord;False;Dorpsplein;1;;9230;Wetteren;Oost-Vlaanderen;;; ; ;DE GEEST;Lieven
+KunstAcademie afdeling Muziek en Woord;False;Fabrieksstraat;19;;9520;Sint-Lievens-Houtem;Oost-Vlaanderen;;; ; ;DE GEEST;Lieven
+KunstAcademie afdeling Muziek en Woord;False;Dorp;101;;9290;Berlare;Oost-Vlaanderen;;; ; ;DE GEEST;Lieven
+De Academie Buggenhout;True;Kasteelstraat;162;;9255;Buggenhout;Oost-Vlaanderen;052 33 95 71;052 34 18 57;academie.mwd@buggenhout.be;www.buggenhout.be;SCHOLLIERS;HANS
+Gemeentelijke Academie voor Muziek, Woord en Dans;True;Stationsstraat;17;;9280;Lebbeke;Oost-Vlaanderen;052 41 11 21;;muziekacademie@lebbeke.be;www.academielebbeke.be;VERMEIR;Dirk
+Gemeentelijke Academie voor Muziek, Woord en Dans;False;Visstraat;49;;9280;Lebbeke;Oost-Vlaanderen;;; ; ;VERMEIR;Dirk
+Stedelijke Academie voor Podiumkunsten (muziek, woord en dans);True;Utopia;1;;9300;Aalst;Oost-Vlaanderen;053 73 24 85;053 73 24 89;academiepodiumkunsten@aalst.be;www.utopia-aalst.be;THOMAS;Peter
+Stedelijke Academie voor Podiumkunsten (muziek, woord en dans);False;Binnenstraat;157;;9300;Aalst;Oost-Vlaanderen;;;;;THOMAS;Peter
+Stedelijke Academie voor Podiumkunsten (muziek, woord en dans);False;Gaston De Schepperstraat;1;;9320;Aalst;Oost-Vlaanderen;;; ; ;THOMAS;Peter
+Stedelijke Academie voor Podiumkunsten (muziek, woord en dans);False;Nieuwstraat;62;A;9470;Denderleeuw;Oost-Vlaanderen;;; ; ;THOMAS;Peter
+Stedelijke Academie voor Podiumkunsten (muziek, woord en dans);False;Solleveld;35;;9550;Herzele;Oost-Vlaanderen;;; ; ;THOMAS;Peter
+Kunstacademie Lede;True;Markt;5;;9340;Lede;Oost-Vlaanderen;053 80 68 20;;secretariaat@gamw.lede.be;www.academielede.be;JONKERS;Bart
+Kunstacademie Lede;False;Dorpsstraat;146;;9420;Erpe-Mere;Oost-Vlaanderen;;; ; ;JONKERS;Bart
+Stedelijke Academie voor Muziek,Woord en Dans;True;Parklaan;13;;9400;Ninove;Oost-Vlaanderen;054 33 47 25;;academie.mwd@ninove.be;www.academieninove.be;SCHELDEMAN;Karen
+Stedelijke Academie voor Muziek,Woord en Dans;False;Edingsesteenweg;344;;9400;Ninove;Oost-Vlaanderen;;;;;SCHELDEMAN;Karen
+Stedelijke Academie voor Muziek,Woord en Dans;False;Gemeentehuisstraat;30;;9402;Ninove;Oost-Vlaanderen;;; ; ;SCHELDEMAN;Karen
+Stedelijke Academie voor Muziek,Woord en Dans;False;Molenstraat;17;;9450;Haaltert;Oost-Vlaanderen;;; ; ;SCHELDEMAN;Karen
+Stedelijke Academie voor Muziek,Woord en Dans;False;Sint-Goriksplein;17;;9450;Haaltert;Oost-Vlaanderen;;; ; ;SCHELDEMAN;Karen
+Stedelijke Academie voor Muziek,Woord en Dans;False;Muilenstraat;33;;1770;Liedekerke;Vlaams-Brabant;;; ; ;SCHELDEMAN;Karen
+Stedelijke Academie voor Muziek,Woord en Dans;False;Kristus Koninglaan;;Z/N;1760;Roosdaal;Vlaams-Brabant;;; ; ;SCHELDEMAN;Karen
+Kunstacademie Geraardsbergen;True;Grotestraat;20;A;9500;Geraardsbergen;Oost-Vlaanderen;054 43 42 41;054 43 42 42;kunstacademie@geraardsbergen.be;kunstacademie.geraardsbergen.be;VAN DEN BORRE;Marc
+KunstAcademie Vlaamse Ardennen;True;Wolvestraat;37;;9600;Ronse;Oost-Vlaanderen;055 21 19 28;055 20 85 74;kunstacademie@ronse.be;www.kunstacademievlaamseardennen.be;DEVREESE;Pascal
+KunstAcademie Vlaamse Ardennen;False;St.-Martensstraat;51;;9660;Brakel;Oost-Vlaanderen;;; ; ;DEVREESE;Pascal
+KunstAcademie Vlaamse Ardennen;False;Stationsstraat;8;;9690;Kluisbergen;Oost-Vlaanderen;;; ; ;DEVREESE;Pascal
+KunstAcademie Vlaamse Ardennen;False;Nederholbeekstraat;1;;9680;Maarkedal;Oost-Vlaanderen;;; ; ;DEVREESE;Pascal
+Stedelijke Academie voor Muziek, Woord en Dans;True;Firmin Bogaertstraat;12;;9620;Zottegem;Oost-Vlaanderen;09 364 64 07;09 364 64 08;secretariaat@samwdzottegem.be;www.samwdzottegem.be;DHONDT;Andy
+Stedelijke Academie voor Muziek, Woord en Dans;False;Stationsstraat;17;;9860;Oosterzele;Oost-Vlaanderen;;; ; ;DHONDT;Andy
+Stedelijke Academie voor Muziek Woord en Dans;True;Parkstraat;2;A;9700;Oudenaarde;Oost-Vlaanderen;055 31 45 84;055 31 45 84;geert.de.praetere@oudenaarde.be;www.oudenaarde.be/samw;DE PRAETERE;Geert
+Stedelijke Academie voor Muziek Woord en Dans;False;Serpentsstraat;15;;9700;Oudenaarde;Oost-Vlaanderen;;; ; ;DE PRAETERE;Geert
+Stedelijke Academie voor Muziek Woord en Dans;False;Driesleutelsstraat;11;;9700;Oudenaarde;Oost-Vlaanderen;;; ; ;DE PRAETERE;Geert
+KADE Podiumkunsten;True;Kalkhofstraat;25;;9800;Deinze;Oost-Vlaanderen;09 381 96 40;09 381 96 49;kadepodiumkunsten@deinze.be;www.muziekacademiedeinze.be;DHONDT;Geert
+KADE Podiumkunsten;False;Waregemsesteenweg;22;;9770;Kruisem;Oost-Vlaanderen;;;;;DHONDT;Geert
+KADE Podiumkunsten;False;Centrumstraat;5;;9870;Zulte;Oost-Vlaanderen;;; ; ;DHONDT;Geert
+KADE Podiumkunsten;False;Burgemeesterstraat;7;;9830;Sint-Martens-Latem;Oost-Vlaanderen;;; ; ;DHONDT;Geert
+KADE Podiumkunsten;False;Dorp;10;a;9810;Nazareth;Oost-Vlaanderen;;; ; ;DHONDT;Geert
+Academie voor Muziek, Woord en Dans;False;Hoogte;3;;9910;Aalter;Oost-Vlaanderen;;; ; ;DEMEYERE;Filip
+Academie voor Muziek, Woord en Dans;False;Mevrouw Courtmanslaan;82;;9990;Maldegem;Oost-Vlaanderen;;; ; ;DEMEYERE;Filip
+Academie voor Muziek, Woord en Dans;False;Rollebaanstraat;10;;8730;Beernem;West-Vlaanderen;;; ; ;DEMEYERE;Filip
+Academie voor Muziek, Woord en Dans;False;Nieuwstraat;8;;8755;Ruiselede;West-Vlaanderen;;; ; ;DEMEYERE;Filip
+Academie voor Muziek, Woord en Dans;True;Stationsplein;25;;9880;Aalter;Oost-Vlaanderen;09 374 36 54;;academie@aalter.be;www.aalter.be;DEMEYERE;Filip
+KunstAcademie Beeld Muziek Woord;True;Pastoor De Nevestraat;26;;9900;Eeklo;Oost-Vlaanderen;09 377 18 52;09 377 17 57;kunstacademie@eeklo.be;www.kunstacademie-eeklo.be;Aureel Heirman;D.VanSpeybroeck
+KunstAcademie Beeld Muziek Woord;False;Nijverheidsstraat;1;A;9950;Lievegem;Oost-Vlaanderen;;; ; ;Aureel Heirman;D.VanSpeybroeck
+KunstAcademie Beeld Muziek Woord;False;Dreef;47;;9930;Lievegem;Oost-Vlaanderen;;; ; ;Aureel Heirman;D.VanSpeybroeck
+Kunstacademie voor Muziek, Woordkunst en Dans;True;Bruggestraat;12;;8820;Torhout;West-Vlaanderen;;;academie@torhout.be;www.kunstacademie.be;VANDECAVEYE;Johan
+Kunstacademie voor Muziek, Woordkunst en Dans;False;Ieperweg;11;;8210;Zedelgem;West-Vlaanderen;;; ; ;VANDECAVEYE;Johan
+Kunstacademie voor Muziek, Woordkunst en Dans;False;Markt;10;;8210;Zedelgem;West-Vlaanderen;;; ; ;VANDECAVEYE;Johan
+Kunstacademie voor Muziek, Woordkunst en Dans;False;Aartrijksestraat;9;;8211;Zedelgem;West-Vlaanderen;;; ; ;VANDECAVEYE;Johan
+Kunstacademie Zwevegem;False;Stedestraat;39;;8550;Zwevegem;West-Vlaanderen;;; ; ;De Clercq;Heidi
+Kunstacademie Zwevegem;False;Dalestraat;40;;8554;Zwevegem;West-Vlaanderen;;; ; ;De Clercq;Heidi
+Kunstacademie Zwevegem;False;Kerkhofplein;3;;8551;Zwevegem;West-Vlaanderen;;; ; ;De Clercq;Heidi
+Stedelijke Kunstacademie voor Muziek, Woord, Beeld en Dans Halle;True;Kardinaal Cardijnstraat;7;;1500;Halle;Vlaams-Brabant;;;kunstacademie@halle.be;www.kunstacademiehalle.be;HANSSENS;Stijn

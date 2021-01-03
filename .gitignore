@@ -9,6 +9,9 @@ node_modules/
 # testing
 /coverage
 
+# custom folders
+/backend/data
+
 # production
 /build
 
