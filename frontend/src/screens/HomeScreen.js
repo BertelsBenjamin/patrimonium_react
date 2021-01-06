@@ -17,7 +17,7 @@ const HomeScreen = () => {
       <Row className='text-center'>
         <Col sm={12} md={6} lg={4} className='py-3'>
           <USP
-            img='/assets/svg/SaaS.svg'
+            img={`${process.env.PUBLIC_URL}/assets/svg/SaaS.svg`}
             title='B2B reporting suite'
             text='Ad est tempor enim nulla. Magna cillum non sit enim sunt duis sunt nulla tempor sunt. Fugiat laboris excepteur reprehenderit do id ex ipsum.'
             cta='/b2b-reporting-suite'
@@ -25,7 +25,7 @@ const HomeScreen = () => {
         </Col>
         <Col sm={12} md={6} lg={4} className='py-3'>
           <USP
-            img='/assets/svg/Sync Data.svg'
+            img={`${process.env.PUBLIC_URL}/assets/svg/SyncData.svg`}
             title='Real time database sync'
             text='Ad est tempor enim nulla. Magna cillum non sit enim sunt duis sunt nulla tempor sunt. Fugiat laboris excepteur reprehenderit do id ex ipsum.'
             cta='/real-time-database-sync'
@@ -33,7 +33,7 @@ const HomeScreen = () => {
         </Col>
         <Col sm={12} md={6} lg={4} className='py-3'>
           <USP
-            img='/assets/svg/Feedback Audience.svg'
+            img={`${process.env.PUBLIC_URL}/assets/svg/Valuations.svg`}
             title='Instant feedback'
             text='Ad est tempor enim nulla. Magna cillum non sit enim sunt duis sunt nulla tempor sunt. Fugiat laboris excepteur reprehenderit do id ex ipsum.'
             cta='/instant-customer-feedback'

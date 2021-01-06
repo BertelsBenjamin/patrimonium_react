@@ -13,7 +13,7 @@ router.get(
   '/',
   asyncHandler(async (req, res) => {
     const academies = await Academy.find({});
-    res.json(academies);
+    res.status(200).json(academies);
   })
 );
 
@@ -32,7 +32,6 @@ router.get(
       res.status(404);
       throw new Error('Product not found');
     }
-    res.json(academy);
   })
 );
 
