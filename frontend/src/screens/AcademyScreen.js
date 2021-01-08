@@ -30,6 +30,7 @@ const AcademyScreen = ({ match }) => {
             <Card.Text>
               <a href={`https://${academy.url}`} target='blank'>
                 {academy.url}
+                <i className='mi-external-link ml-3'></i>
               </a>
             </Card.Text>
           </Card.Body>

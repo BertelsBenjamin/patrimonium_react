@@ -2,11 +2,6 @@ import mongoose from 'mongoose';
 
 export const interventionSchema = mongoose.Schema(
   {
-    technician: {
-      type: mongoose.Schema.Types.ObjectId,
-      required: true,
-      ref: 'User',
-    },
     comment: {
       type: String,
       required: true,
@@ -17,24 +12,33 @@ export const interventionSchema = mongoose.Schema(
       required: true,
       default: '',
     },
+    hz: {
+      type: Number,
+      required: true,
+      default: 440,
+    },
     new_intervention: {
       type: Boolean,
+      required: false,
+    },
+    necessary_workload: {
+      type: Number,
       required: false,
     },
     nav_service_order_number: {
       type: String,
       required: true,
-      default: '',
+      unique: true,
     },
-    instrument: {
+    piano_id: {
       type: mongoose.Schema.Types.ObjectId,
       required: true,
       ref: 'Piano',
     },
-    academy: {
+    user_id: {
       type: mongoose.Schema.Types.ObjectId,
       required: true,
-      ref: 'Academy',
+      ref: 'User',
     },
     duration: {
       type: Number,
