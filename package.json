@@ -4,12 +4,11 @@
   "description": "SaaS product built for companies delivering B2B services to track realtime state of service projects",
   "main": "server.js",
   "type": "module",
-  "proxy": "http://127.0.0.1:5000",
   "scripts": {
-    "start": "node backend/server.js",
-    "server": "nodemon backend/server.js",
+    "start": "node backend/server",
+    "serve": "nodemon backend/server",
     "client": "npm start --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "dev": "concurrently \"npm run serve\" \"npm run client\"",
     "data:import": "node backend/seeder",
     "data:destroy": "node backend/seeder -d"
   },

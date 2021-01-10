@@ -1,5 +1,6 @@
 import asyncHandler from 'express-async-handler';
 import Academy from '../models/academyModel.js';
+import Piano from '../models/pianoModel.js';
 
 /* 
     @desc   Fetch all academies
@@ -13,13 +14,20 @@ const getAcademies = asyncHandler(async (req, res) => {
 });
 
 /* 
-    @desc   Fetch academy by id
+    @desc   Fetch academy by academyId
     @route  GET /api/academies/:id
     @access Public
 */
 
 const getAcademy = asyncHandler(async (req, res) => {
-  const academy = await Academy.findById(req.params.id);
+  let academy = await Academy.findById(req.params.id);
+  console.log(academy);
+
+  //Add all pianos to academy
+  /* const pianos = await Piano.find({ academy_id: req.params.id });
+  academy = { ...academy._doc, pianos: pianos };
+  console.log(academy); */
+
   if (academy) {
     res.json(academy);
   } else {
@@ -28,4 +36,15 @@ const getAcademy = asyncHandler(async (req, res) => {
   }
 });
 
-export { getAcademies, getAcademy };
+/* 
+    @desc   Fetch academy by pianoId
+    @route  GET /api/academies/piano/:id
+    @access Public
+*/
+
+const getAcademyByPianoId = asyncHandler(async (req, res) => {
+  const academy = await Academy.find();
+  res.status(200).json(academy);
+});
+
+export { getAcademies, getAcademy, getAcademyByPianoId };

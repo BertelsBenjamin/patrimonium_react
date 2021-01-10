@@ -9,6 +9,7 @@ import pianos from './data/pianos.js';
 import User from './models/userModel.js';
 import Academy from './models/academyModel.js';
 import Piano from './models/pianoModel.js';
+import Intervention from './models/interventionModel.js';
 
 import connectDB from './config/db.js';
 

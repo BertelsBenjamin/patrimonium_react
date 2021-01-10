@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 import colors from 'colors';
 import connectDB from './config/db.js';
 import academyRoutes from './routes/academyRoutes.js';
+import pianoRoutes from './routes/pianoRoutes.js';
 import { errorHandler, notFound } from './middleware/errorMiddleware.js';
 
 //CONFIG & INIT
@@ -13,6 +14,7 @@ connectDB();
 
 // ROUTES
 app.use('/api/academies', academyRoutes);
+app.use('/api/pianos', pianoRoutes);
 
 // ERROR HANDLING MIDDLEWARE
 app.use(notFound);

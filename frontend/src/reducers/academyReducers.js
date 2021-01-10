@@ -1,4 +1,7 @@
 import {
+  ACADEMY_BY_PIANO_FAIL,
+  ACADEMY_BY_PIANO_REQUEST,
+  ACADEMY_BY_PIANO_SUCCESS,
   ACADEMY_DETAILS_FAIL,
   ACADEMY_DETAILS_REQUEST,
   ACADEMY_DETAILS_SUCCESS,
@@ -33,6 +36,22 @@ export const academyDetailsReducer = (
     case ACADEMY_DETAILS_SUCCESS:
       return { loading: false, academy: action.payload };
     case ACADEMY_DETAILS_FAIL:
+      return { loading: false, error: action.payload };
+    default:
+      return state;
+  }
+};
+
+export const academyDetailsByPianoIdReducer = (
+  state = { loading: true, academy: {} },
+  action
+) => {
+  switch (action.type) {
+    case ACADEMY_BY_PIANO_REQUEST:
+      return { loading: true, academy: {} };
+    case ACADEMY_BY_PIANO_SUCCESS:
+      return { loading: false, academy: action.payload };
+    case ACADEMY_BY_PIANO_FAIL:
       return { loading: false, error: action.payload };
     default:
       return state;

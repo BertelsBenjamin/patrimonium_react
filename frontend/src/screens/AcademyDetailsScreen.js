@@ -4,8 +4,9 @@ import { getAcademyDetails } from '../actions/academyActions';
 import Loader from '../components/Loader';
 import Message from '../components/Message';
 import { Row, Col, Card, ListGroup, ListGroupItem } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
-const AcademyScreen = ({ match }) => {
+const AcademyDetailsScreen = ({ match, history }) => {
   const id = match.params.id;
   const dispatch = useDispatch();
 
@@ -26,13 +27,24 @@ const AcademyScreen = ({ match }) => {
         <Card style={{ width: '100%' }}>
           <Card.Img variant='top' src='' />
           <Card.Body>
-            <Card.Title>{academy.name}</Card.Title>
-            <Card.Text>
-              <a href={`https://${academy.url}`} target='blank'>
-                {academy.url}
-                <i className='mi-external-link ml-3'></i>
-              </a>
-            </Card.Text>
+            <Row>
+              <Col>
+                <Card.Title>{academy.name}</Card.Title>
+              </Col>
+              <Col>
+                <Card.Text>
+                  <a href={`https://${academy.url}`} target='blank'>
+                    {academy.url}
+                    <i className='mi-external-link ml-3'></i>
+                  </a>
+                </Card.Text>
+              </Col>
+              <Col>
+                <Card.Title style={{ textAlign: 'right' }}>
+                  <Link to={`/pianos/academy/${academy._id}`}>Instruments</Link>
+                </Card.Title>
+              </Col>
+            </Row>
           </Card.Body>
           <Row>
             <Col>
@@ -76,4 +88,4 @@ const AcademyScreen = ({ match }) => {
   );
 };
 
-export default AcademyScreen;
+export default AcademyDetailsScreen;

@@ -1,9 +1,14 @@
 import express from 'express';
-import { getAcademies, getAcademy } from '../controllers/academyControllers.js';
+import {
+  getAcademies,
+  getAcademy,
+  getAcademyByPianoId,
+} from '../controllers/academyControllers.js';
 
 const router = express.Router();
 
-router.route('/').get(getAcademies);
-router.route('/:id').get(getAcademy);
+router.get('/', getAcademies);
+router.get('/:id', getAcademy);
+router.get('/piano/:id', getAcademyByPianoId);
 
 export default router;

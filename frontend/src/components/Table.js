@@ -1,5 +1,6 @@
 import React from 'react';
 import { Table as TableBootstrap } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 const Table = ({ data, details }) => {
   console.log(data);
@@ -38,9 +39,9 @@ const Table = ({ data, details }) => {
               </td>
             ))}
             <td>
-              <a href={`/${details}/${obj._id}`}>
+              <Link to={`/${details}/${obj._id}`}>
                 <i className='mi-circle-information'></i>
-              </a>
+              </Link>
             </td>
           </tr>
         ))}

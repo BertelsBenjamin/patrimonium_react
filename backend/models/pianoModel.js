@@ -10,14 +10,17 @@ export const pianoSchema = mongoose.Schema(
     model: {
       type: String,
       required: false,
+      default: '',
     },
     serial_number: {
       type: String,
       required: false,
+      default: '',
     },
     year_of_construction: {
       type: String,
       required: false,
+      default: '',
     },
     room: {
       type: String,
@@ -27,22 +30,27 @@ export const pianoSchema = mongoose.Schema(
     type: {
       type: String,
       required: false,
+      default: '',
     },
     category: {
       type: Number,
       required: false,
+      default: '',
     },
     advisory_tuning_frequency: {
       type: Number,
       required: false,
+      default: 2,
     },
     small_revision_needed: {
       type: Date,
       required: false,
+      default: Date.now(),
     },
     large_revision_needed: {
       type: Date,
       required: false,
+      default: Date.now(),
     },
     academy_id: {
       type: mongoose.Schema.Types.ObjectId,
