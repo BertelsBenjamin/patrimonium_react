@@ -3,14 +3,17 @@ import { Table as TableBootstrap } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 const Table = ({ data, details }) => {
-  console.log(data);
+  //console.log(data);
   return (
     <TableBootstrap striped responsive bordered hover variant='dark'>
       <thead>
         <tr>
-          {Object.keys(data[0]).map((key) => (
-            <th key={key}>{key.charAt(0).toUpperCase() + key.slice(1)}</th>
+          {Object.keys(data[0]).map((key, index) => (
+            <th key={`${index}-${key}`}>
+              {key.charAt(0).toUpperCase() + key.slice(1)}
+            </th>
           ))}
+          {/* OPTIONAL HEADER CELL */}
           <th>More info</th>
         </tr>
       </thead>
@@ -38,6 +41,7 @@ const Table = ({ data, details }) => {
                 )}
               </td>
             ))}
+            {/* OPTIONAL DATA CELL */}
             <td>
               <Link to={`/${details}/${obj._id}`}>
                 <i className='mi-circle-information'></i>

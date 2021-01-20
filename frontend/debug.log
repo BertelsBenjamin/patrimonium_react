@@ -8,3 +8,24 @@
 [0107/130929.017:ERROR:exception_snapshot_win.cc(99)] thread ID 11004 not found in process
 [0108/201748.511:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
 [0110/100447.035:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0111/215831.318:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0112/211806.178:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0113/093610.899:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0113/235905.538:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.538:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.538:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.538:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.538:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.538:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.538:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.538:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0113/235905.538:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0113/235905.554:ERROR:exception_snapshot_win.cc(99)] thread ID 548 not found in process
+[0113/235905.554:ERROR:exception_snapshot_win.cc(99)] thread ID 6816 not found in process
+[0113/235905.538:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0113/235905.554:ERROR:exception_snapshot_win.cc(99)] thread ID 17912 not found in process
+[0113/235905.538:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0113/235905.554:ERROR:exception_snapshot_win.cc(99)] thread ID 7296 not found in process
+[0113/235905.554:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0113/235905.554:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0113/235905.554:ERROR:exception_snapshot_win.cc(99)] thread ID 17084 not found in process

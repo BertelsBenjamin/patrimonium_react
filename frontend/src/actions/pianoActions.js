@@ -1,10 +1,5 @@
 import axios from 'axios';
 import {
-  ACADEMY_DETAILS_FAIL,
-  ACADEMY_DETAILS_REQUEST,
-  ACADEMY_DETAILS_SUCCESS,
-} from '../constants/academyConstants';
-import {
   PIANO_LIST_FAIL,
   PIANO_LIST_REQUEST,
   PIANO_LIST_SUCCESS,
