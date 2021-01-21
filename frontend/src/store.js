@@ -14,6 +14,8 @@ import {
   pianosByAcademyIdReducer,
 } from './reducers/pianoReducers';
 
+import { userLoginReducer } from './reducers/userReducer';
+
 const reducer = combineReducers({
   academyList: academyListReducer,
   academyDetails: academyDetailsReducer,
@@ -21,8 +23,16 @@ const reducer = combineReducers({
   pianoList: pianoListReducer,
   pianoDetails: pianoDetailsReducer,
   pianoListByAcademyId: pianosByAcademyIdReducer,
+  userLogin: userLoginReducer,
 });
-const initialState = {};
+
+const userInfoFromStorage = localStorage.getItem('userInfo')
+  ? JSON.parse(localStorage.getItem('userInfo'))
+  : null;
+
+const initialState = {
+  userLogin: { userInfo: userInfoFromStorage },
+};
 const middleware = [thunk];
 
 const store = createStore(

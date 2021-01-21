@@ -109,6 +109,17 @@ userSchema.methods.matchPassword = async function (enteredPassword) {
   return await bcrypt.compare(enteredPassword, this.password);
 };
 
+userSchema.pre('save', async function (next) {
+  // only execute if password was modified (update profile)
+  // isModified() is a mongoose function since it is applied to this, which is the userSchema (mongoose object)
+  if (!this.isModified('password')) {
+    next();
+  }
+
+  const salt = await bcrypt.genSalt(10);
+  this.password = await bcrypt.hash(this.password, salt);
+});
+
 const User = mongoose.model('User', userSchema);
 
 export default User;

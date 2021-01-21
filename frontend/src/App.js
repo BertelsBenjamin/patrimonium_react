@@ -7,6 +7,7 @@ import HomeScreen from './screens/HomeScreen';
 import FeaturesScreen from './screens/FeaturesScreen';
 import PricingScreen from './screens/PricingScreen';
 import LoginScreen from './screens/LoginScreen';
+import DashboardScreen from './screens/DashboardScreen';
 import AcademiesScreen from './screens/AcademiesScreen';
 import AcademyDetailsScreen from './screens/AcademyDetailsScreen';
 import PianosScreen from './screens/PianosScreen';
@@ -17,8 +18,8 @@ const App = () => {
     <Router>
       <Header />
       <main>
-        <Container>
-          <Route path='/' component={HomeScreen} exact />
+        <Container fluid>
+          <Route path='/dashboard' component={DashboardScreen} exact />
           <Route path='/academies' component={AcademiesScreen} exact />
           <Route path='/academies/:id' component={AcademyDetailsScreen} exact />
           <Route path='/pianos/academy/:id' component={PianosScreen} exact />
@@ -26,6 +27,7 @@ const App = () => {
           <Route path='/features' component={FeaturesScreen} />
           <Route path='/pricing' component={PricingScreen} />
           <Route path='/login' component={LoginScreen} />
+          <Route path='/' component={HomeScreen} exact />
         </Container>
       </main>
       <Footer />
