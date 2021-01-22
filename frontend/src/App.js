@@ -12,6 +12,7 @@ import AcademiesScreen from './screens/AcademiesScreen';
 import AcademyDetailsScreen from './screens/AcademyDetailsScreen';
 import PianosScreen from './screens/PianosScreen';
 import PianoDetailsScreen from './screens/PianoDetailsScreen';
+import ProfileScreen from './screens/ProfileScreen';
 
 const App = () => {
   return (
@@ -27,6 +28,7 @@ const App = () => {
           <Route path='/features' component={FeaturesScreen} />
           <Route path='/pricing' component={PricingScreen} />
           <Route path='/login' component={LoginScreen} />
+          <Route path='/profile' component={ProfileScreen} />
           <Route path='/' component={HomeScreen} exact />
         </Container>
       </main>

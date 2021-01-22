@@ -17,6 +17,7 @@ const userSchema = mongoose.Schema(
       type: String,
       required: false,
       default: '',
+      unique: true,
     },
     department: {
       type: String,

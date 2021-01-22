@@ -14,7 +14,7 @@ import {
   pianosByAcademyIdReducer,
 } from './reducers/pianoReducers';
 
-import { userLoginReducer } from './reducers/userReducer';
+import { userLoginReducer, userDetailsReducer } from './reducers/userReducer';
 
 const reducer = combineReducers({
   academyList: academyListReducer,
@@ -24,6 +24,7 @@ const reducer = combineReducers({
   pianoDetails: pianoDetailsReducer,
   pianoListByAcademyId: pianosByAcademyIdReducer,
   userLogin: userLoginReducer,
+  userDetails: userDetailsReducer,
 });
 
 const userInfoFromStorage = localStorage.getItem('userInfo')

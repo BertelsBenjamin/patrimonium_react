@@ -130,4 +130,42 @@ const getUserProfile = asyncHandler(async (req, res) => {
   }
 });
 
-export { authUser, registerUser, getUserProfile };
+// @desc    Update user profile
+// @route   PUT /api/users/profile
+// @access  Private
+const updateUserProfile = asyncHandler(async (req, res) => {
+  const user = await User.findById(req.user._id);
+  if (user) {
+    user.name = req.body.name || user.name;
+    user.first_name = req.body.first_name || user.first_name;
+    user.email = req.body.email || user.email;
+    user.initials =
+      user.name.toString().charAt(0).toUpperCase() +
+      user.name.toString().charAt(1).toLowerCase() +
+      user.first_name.toString().charAt(0).toUpperCase() +
+      user.first_name.toString().charAt(1).toLowerCase();
+    user.department = req.body.department || user.department;
+    user.role = req.body.role || user.role;
+    user.street = req.body.street || user.street;
+    user.place = req.body.place || user.place;
+    user.phone_int = req.body.phone_int || user.phone_int;
+    user.house_number = req.body.house_number || user.house_number;
+    user.phone_private = req.body.phone_private || user.phone_private;
+    user.mobile_private = req.body.mobile_private || user.mobile_private;
+    user.private_email = req.body.private_email || user.private_email;
+    user.updatedAt = new Date();
+
+    if (req.body.password) {
+      user.password = req.body.password;
+    }
+
+    const updatedUser = await user.save();
+
+    res.json(updatedUser);
+  } else {
+    res.status(401);
+    throw new Error('Invalid email or password');
+  }
+});
+
+export { authUser, registerUser, getUserProfile, updateUserProfile };

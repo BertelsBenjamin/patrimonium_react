@@ -45,6 +45,9 @@ const Header = () => {
                 id='username'
               >
                 <LinkContainer to='/dashboard'>
+                  <NavDropdown.Item>Dashboard</NavDropdown.Item>
+                </LinkContainer>
+                <LinkContainer to='/profile'>
                   <NavDropdown.Item>Profile</NavDropdown.Item>
                 </LinkContainer>
                 <NavDropdown.Item onClick={logoutHandler}>

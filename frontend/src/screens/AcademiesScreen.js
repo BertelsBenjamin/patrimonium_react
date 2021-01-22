@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { listAcademies } from '../actions/academyActions';
+import { Row, Col } from 'react-bootstrap';
 import Table from '../components/Table';
 import Loader from '../components/Loader';
 import Message from '../components/Message';
@@ -27,7 +28,11 @@ const AcademiesScreen = () => {
   );
   return (
     <>
-      <h1>Academies</h1>
+      <Row className='mb-3'>
+        <Col className='text-center'>
+          <h2>Academies</h2>
+        </Col>
+      </Row>
       {loading ? (
         <Loader />
       ) : error ? (
